@@ -1,6 +1,6 @@
 # Mathematics manuscript collection
 
-**722 manuscripts covering 372 result families.**
+**719 manuscripts covering 372 result families.**
 
 [**Read the overview PDF**](overview.pdf).
 
@@ -20,7 +20,7 @@ Each result description is followed by its constituent manuscripts and their abs
 <tbody><tr>
 <td>
 
-&emsp;[Milne's rationality conjecture for abelian varieties](preprints/Milnes-rationality-conjecture-for-abelian-varieties-September-23-2026/paper.pdf)
+&emsp;[Milne's rationality conjecture for abelian varieties](preprints/Milnes-rationality-conjecture-for-abelian-varieties-October-7-2026/paper.pdf)
 
 We prove Milne's rationality conjecture for abelian varieties, including residue characteristic 2. After good reduction, the pairing of a rational Hodge class with any complementary product of divisor classes on the reduction is the same rational number in every prime-to-<i>p</i> realization and in crystalline cohomology. Using the Hodge theorem for CM abelian varieties, we also show that every such specialized Hodge class is represented by a single rational algebraic cycle in all these realizations.
 
@@ -36,7 +36,7 @@ We prove Milne's rationality conjecture for abelian varieties, including residue
 <tbody><tr>
 <td>
 
-&emsp;[Exact Birch–Swinnerton-Dyer Formula from Low Selmer Corank](preprints/Exact-Birch-Swinnerton-Dyer-Formula-from-Low-Selmer-Corank-October-3-2026/exact-bsd-low-selmer-corank.pdf)
+&emsp;[Exact Birch–Swinnerton-Dyer Formula from Low Selmer Corank](preprints/Exact-Birch-Swinnerton-Dyer-Formula-from-Low-Selmer-Corank-October-7-2026/exact-bsd-low-selmer-corank.pdf)
 
 We prove the full Birch–Swinnerton-Dyer leading-term formula for every elliptic curve over ℚ whose full <i>q</i>-power Selmer group has corank zero or one at some prime <i>q</i>. The analytic and Mordell–Weil ranks equal that corank, and the Tate–Shafarevich group is finite. The formula includes all prime factors and requires no additional hypotheses on reduction, rational torsion, isogenies, complex multiplication, or residual Galois representations.
 
@@ -45,7 +45,7 @@ We prove the full Birch–Swinnerton-Dyer leading-term formula for every ellipti
 <tbody><tr>
 <td>
 
-&emsp;[The Selmer converse for elliptic curves at every prime](preprints/The-Selmer-converse-for-elliptic-curves-at-every-prime-September-24-2026/main.pdf)
+&emsp;[The Selmer converse for elliptic curves at every prime](preprints/The-Selmer-converse-for-elliptic-curves-at-every-prime-October-7-2026/main.pdf)
 
 We prove the Selmer converse in coranks zero and one for every elliptic curve over ℚ and every prime <i>p</i>: if the full <i>p</i>-power Selmer group has ℤ<sub><i>p</i></sub>-corank $`r\in\{0,1\}`$, then the analytic and Mordell–Weil ranks both equal <i>r</i>, and the entire Tate–Shafarevich group is finite. As an application at the additive prime 3, we prove that for every prime $`\ell\equiv4,7,8\pmod9`$, the cubic $`X^3+Y^3=\ell Z^3`$ has analytic and Mordell–Weil rank one and finite Tate–Shafarevich group. In particular, every such <i>ℓ</i> is a sum of two rational cubes.
 
@@ -54,7 +54,7 @@ We prove the Selmer converse in coranks zero and one for every elliptic curve ov
 <tbody><tr>
 <td>
 
-&emsp;[The two-primary Birch–Swinnerton-Dyer formula in Selmer corank at most one](preprints/The-two-primary-Birch-Swinnerton-Dyer-formula-in-Selmer-corank-at-most-one-September-24-2026/paper.pdf)
+&emsp;[The two-primary Birch–Swinnerton-Dyer formula in Selmer corank at most one](preprints/The-two-primary-Birch-Swinnerton-Dyer-formula-in-Selmer-corank-at-most-one-October-6-2026/paper.pdf)
 
 We prove the two-primary Birch and Swinnerton-Dyer leading-term formula for every elliptic curve over the rationals whose two-power Selmer group has corank at most one. In this range, the algebraic rank, analytic rank, and Selmer corank are equal, and the Tate–Shafarevich group is finite. Combined with the quadratic-twist Selmer distribution, this gives the exact two-primary formula for a density-one set of signed squarefree twists of each fixed curve, ordered by absolute value; the common rank is zero or one, with each value having density one half.
 
@@ -104,7 +104,7 @@ We prove the uniform exclusion of Landau–Siegel zeros. There is an absolute co
 <tbody><tr>
 <td>
 
-&emsp;[Hilbert’s tenth problem over the rational numbers](preprints/Hilberts-tenth-problem-over-the-rational-numbers-September-24-2026/main.pdf)
+&emsp;[Hilbert’s tenth problem over the rational numbers](preprints/Hilberts-tenth-problem-over-the-rational-numbers-October-6-2026/main.pdf)
 
 We give a negative answer to Hilbert's tenth problem over the rational numbers: no algorithm decides whether a polynomial with integer coefficients has a rational zero. The number of variables is part of the input.
 
@@ -113,7 +113,7 @@ We give a negative answer to Hilbert's tenth problem over the rational numbers: 
 <tbody><tr>
 <td>
 
-&emsp;[A pointwise 2-converse for elliptic curves with rational two-torsion](preprints/A-pointwise-2-converse-for-elliptic-curves-with-rational-two-torsion-September-24-2026/paper.pdf)
+&emsp;[A pointwise 2-converse for elliptic curves with rational two-torsion](preprints/A-pointwise-2-converse-for-elliptic-curves-with-rational-two-torsion-October-7-2026/paper.pdf)
 
 We prove a pointwise 2-converse for elliptic curves over $`\mathbf Q`$ with nonzero rational two-torsion: if the $`2^\infty`$-Selmer corank is zero or one, then the analytic rank and Mordell–Weil rank equal that corank, and the Shafarevich–Tate group is finite. The result allows arbitrary reduction at 2.
 
@@ -145,7 +145,7 @@ We prove that Catalan's constant $`G=\sum_{j\geq0}(-1)^j/(2j+1)^2`$ is irrationa
 <tbody><tr>
 <td>
 
-&emsp;[Goldfeld's analytic density conjecture and the 2-converse for elliptic curves](preprints/Goldfelds-analytic-density-conjecture-and-the-2-converse-for-elliptic-curves-September-23-2026/paper.pdf)
+&emsp;[Goldfeld's analytic density conjecture and the 2-converse for elliptic curves](preprints/Goldfelds-analytic-density-conjecture-and-the-2-converse-for-elliptic-curves-October-7-2026/paper.pdf)
 
 We prove Goldfeld's analytic density conjecture: for every elliptic curve <i>E</i> over ℚ, the quadratic twists of <i>E</i> with analytic rank zero and one each have density 1/2 among signed squarefree twist parameters ordered by absolute value. We also prove the low-corank 2-converse: if the $`2^\infty`$-Selmer corank of <i>E</i> is zero or one, then it equals the analytic and Mordell–Weil ranks, and the Tate–Shafarevich group is finite.
 
@@ -154,7 +154,7 @@ We prove Goldfeld's analytic density conjecture: for every elliptic curve <i>E</
 <tbody><tr>
 <td>
 
-&emsp;[The mean analytic rank of quadratic twists of elliptic curves](preprints/The-mean-analytic-rank-of-quadratic-twists-of-elliptic-curves-September-23-2026/paper.pdf)
+&emsp;[The mean analytic rank of quadratic twists of elliptic curves](preprints/The-mean-analytic-rank-of-quadratic-twists-of-elliptic-curves-October-6-2026/paper.pdf)
 
 For every elliptic curve over ℚ, we prove that the average analytic rank of its quadratic twists tends to 1/2 when signed squarefree twist parameters are ordered by absolute value. This resolves Goldfeld's mean analytic-rank conjecture in this counting convention.
 
@@ -236,7 +236,7 @@ We prove the Bogomolov–Pop reconstruction conjecture for function fields of tr
 <tbody><tr>
 <td>
 
-&emsp;[Unrestricted pro-modularity at the prime two](preprints/Unrestricted-pro-modularity-at-the-prime-two-October-4-2026/two-adic-promodularity.pdf)
+&emsp;[Unrestricted pro-modularity at the prime two](preprints/Unrestricted-pro-modularity-at-the-prime-two-October-6-2026/two-adic-promodularity.pdf)
 
 Every continuous, odd, absolutely irreducible two-dimensional 2-adic representation of $`G_{\mathbb Q}`$ that is unramified outside finitely many finite primes occurs in the full completed Hecke algebra at some odd tame level. The level may contain auxiliary tame primes, and scalar and reducible residual representations are included. This is a completed-Hecke occurrence result, with no de Rham hypothesis; it does not assert classical modularity.
 
@@ -254,7 +254,7 @@ For every odd positive integer <i>N</i>, every irreducible component of the full
 <tbody><tr>
 <td>
 
-&emsp;[Fontaine–Mazur modularity at the prime 2](preprints/Fontaine-Mazur-modularity-at-the-prime-2-September-23-2026/paper.pdf)
+&emsp;[Fontaine–Mazur modularity at the prime 2](preprints/Fontaine-Mazur-modularity-at-the-prime-2-October-6-2026/paper.pdf)
 
 We prove that every continuous, irreducible, odd two-dimensional 2-adic representation of $`G_{\mathbb Q}`$, unramified outside finitely many primes and de Rham at 2 with distinct Hodge–Tate weights, is modular up to Tate twist. This resolves the odd, regular two-dimensional Fontaine–Mazur conjecture over ℚ at 2, including all residual representations.
 
@@ -542,7 +542,7 @@ Let <i>X</i> be a smooth proper hyperbolic curve over an algebraic closure of a 
 <tbody><tr>
 <td>
 
-&emsp;[The p-adic section conjecture](preprints/The-p-adic-section-conjecture-September-24-2026/main.pdf)
+&emsp;[The p-adic section conjecture](preprints/The-p-adic-section-conjecture-October-6-2026/main.pdf)
 
 We prove the local <i>p</i>-adic section conjecture for smooth proper geometrically connected curves of genus at least two, over every finite extension of ℚ<sub><i>p</i></sub>. Combined with established finite-descent theorems, this also yields the global section conjecture for smooth proper geometrically connected curves of genus at least two over number fields when their finite-cover descent locus equals their rational points; this includes $`X_0(N)`$ and $`X_1(N)`$ of genus at least two over ℚ.
 
@@ -663,7 +663,7 @@ For every fixed <i>C</i> &gt; 0, we prove that a positive proportion of consecut
 <tbody><tr>
 <td>
 
-**027. Potential integral density on curve character varieties.** Resolves the determinant-one curve case of Litt's integral-density question. For every smooth connected complex algebraic curve and every rank, integral points become Zariski dense in every component of its SL<sub><i>r</i></sub> character variety over the full ring of integers of one number field. Prescribed quasi-unipotent boundary conjugacy classes are allowed, including nonsemisimple classes.
+**027. Potential integral density on curve character varieties.** Resolves the determinant-one curve case of Litt's integral-density question. For every smooth connected complex algebraic curve and every rank, integral points become Zariski dense in every component of its SL<sub><i>r</i></sub> character variety over the full ring of integers of one number field. Prescribed quasi-unipotent boundary conjugacy classes are allowed, including nonsemisimple classes. ([Lean](lean/docs/027.md))
 
 </td>
 </tr></tbody>
@@ -752,32 +752,14 @@ We prove Uchida's conjecture on open homomorphisms of Galois groups. Every conti
 <tbody><tr>
 <td>
 
-**032. Hodge and Kuga–Satake results for all projective K3 surfaces.** Proves the rational Hodge conjecture for every complex CM abelian variety, in every dimension and codimension. Through Milne's theorems, this also gives the Tate conjecture for all abelian varieties over finite fields and the Hodge standard conjecture for abelian varieties in every characteristic. Companion results prove rational Hodge for arbitrary products of projective complex K3 surfaces and algebraicity of the Kuga–Satake correspondence for every such surface.
+**032. The rational Hodge conjecture for CM abelian varieties.** Proves the rational Hodge conjecture for every complex CM abelian variety, in every dimension and codimension. Through Milne's theorems, this also gives the Tate conjecture for all abelian varieties over finite fields and the Hodge standard conjecture for abelian varieties in every characteristic.
 
 </td>
 </tr></tbody>
 <tbody><tr>
 <td>
 
-&emsp;[The rational Hodge conjecture for products of K3 surfaces](preprints/The-rational-Hodge-conjecture-for-products-of-K3-surfaces-October-4-2026/hodge-conjecture-products-k3.pdf)
-
-We prove the rational Hodge conjecture for every finite product of projective complex K3 surfaces: every rational Hodge class is algebraic. The factors may be distinct or repeated, with no restrictions on their Picard numbers, periods, or endomorphism fields.
-
-</td>
-</tr></tbody>
-<tbody><tr>
-<td>
-
-&emsp;[Algebraicity of Kuga–Satake Correspondences for K3 Surfaces](preprints/Algebraicity-of-Kuga-Satake-Correspondences-for-K3-Surfaces-October-3-2026/manuscript.pdf)
-
-We prove that the Kuga–Satake correspondence is algebraic for every smooth projective complex K3 surface. More precisely, the prescribed embedding of its transcendental cohomology into the cohomology of its Kuga–Satake abelian variety is induced by a rational algebraic cycle, with the fixed normalization and full even-Clifford target. The result also holds for isogenous Kuga–Satake models with the transported embedding.
-
-</td>
-</tr></tbody>
-<tbody><tr>
-<td>
-
-&emsp;[The rational Hodge conjecture for CM abelian varieties](preprints/The-rational-Hodge-conjecture-for-CM-abelian-varieties-September-30-2026/paper.pdf)
+&emsp;[The rational Hodge conjecture for CM abelian varieties](preprints/The-rational-Hodge-conjecture-for-CM-abelian-varieties-October-6-2026/paper.pdf)
 
 We prove the rational Hodge conjecture for complex abelian varieties with complex multiplication: every rational Hodge class on such a variety is a rational linear combination of algebraic cycle classes. As consequences, we obtain the generalized Hodge conjecture for CM abelian varieties, the Tate conjecture for abelian varieties over finite fields, and the Hodge standard conjecture for abelian varieties in arbitrary characteristic.
 
@@ -795,7 +777,7 @@ We prove the rational Hodge and generalized Hodge conjectures in every cohomolog
 <tbody><tr>
 <td>
 
-&emsp;[Weil classes and Hodge classes on abelian powers](preprints/Weil-classes-and-Hodge-classes-on-abelian-powers-September-30-2026/paper.pdf)
+&emsp;[Weil classes and Hodge classes on abelian powers](preprints/Weil-classes-and-Hodge-classes-on-abelian-powers-October-6-2026/paper.pdf)
 
 We prove the rational Hodge conjecture in every codimension on every self-power of a complex abelian sixfold with an imaginary-quadratic action and a compatible polarization whose rational homological Hermitian form is hyperbolic of signature $`(3,3)`$. We also prove it in every codimension on every self-power of a complex abelian variety of dimension at most five admitting an imaginary-quadratic action. Both results include nonsimple varieties and special periods with additional endomorphisms. The proof uses the companion theorem on the rational Hodge conjecture for CM abelian varieties.
 
@@ -804,18 +786,9 @@ We prove the rational Hodge conjecture in every codimension on every self-power 
 <tbody><tr>
 <td>
 
-&emsp;[Abelian covers, Gale correspondences, and the Hodge conjecture for powers](preprints/Abelian-covers-Gale-correspondences-and-the-Hodge-conjecture-for-powers-September-30-2026/paper.pdf)
+&emsp;[Abelian covers, Gale correspondences, and the Hodge conjecture for powers](preprints/Abelian-covers-Gale-correspondences-and-the-Hodge-conjecture-for-powers-October-6-2026/paper.pdf)
 
 We prove the rational Hodge conjecture on every self-power of the Jacobian at each tensor Hodge-generic point of the full marked variation of a connected abelian cover of curves. This holds in every base genus and for every compatible branching pattern. For any CM abelian variety, the conclusion also holds for every self-power of its product with the Jacobian, on the same Hodge-generic locus. We also prove the conjecture on every self-power of a very general member of the full smooth labelled family of diagonal complete intersections cut out by at most two equations of a common degree, in every dimension and every degree at least two.
-
-</td>
-</tr></tbody>
-<tbody><tr>
-<td>
-
-&emsp;[Algebraicity of Weil classes on split abelian eightfolds](preprints/Algebraicity-of-Weil-classes-on-split-abelian-eightfolds-September-18-2026/paper.pdf)
-
-We prove that every rational Weil class on a split abelian eightfold of Weil type is algebraic. The result holds for every imaginary quadratic field, every compatible polarization type, and every member of the split family, including those with additional endomorphisms. Thus the full two-dimensional rational Weil space in codimension four is generated by algebraic cycle classes.
 
 </td>
 </tr></tbody>
@@ -890,7 +863,7 @@ We prove the compact log-smooth Kähler case of b-semiampleness. Let $`f:Y\to X`
 <tbody><tr>
 <td>
 
-&emsp;[Log abundance for compact Kähler spaces under logarithmic Iitaka subadditivity](preprints/Log-abundance-for-compact-Kahler-spaces-under-logarithmic-Iitaka-subadditivity-October-4-2026/main.pdf)
+&emsp;[Log abundance for compact Kähler spaces under logarithmic Iitaka subadditivity](preprints/Log-abundance-for-compact-Kahler-spaces-under-logarithmic-Iitaka-subadditivity-October-6-2026/main.pdf)
 
 Assume logarithmic Iitaka subadditivity for surjective morphisms with connected fibers between smooth projective complex varieties with compatible reduced simple normal crossing boundaries. We prove log abundance for normal irreducible compact Kähler spaces in every dimension: for a log canonical pair $`(X,\Delta)`$ with effective rational boundary and $`K_X+\Delta`$ ℚ-Cartier, analytic nefness of $`K_X+\Delta`$ implies semiampleness.
 
@@ -908,9 +881,9 @@ We prove a uniform index theorem for connected projective semi-log-canonical log
 <tbody><tr>
 <td>
 
-&emsp;[Conditional good minimal models for compact Kähler fourfolds](preprints/Conditional-good-minimal-models-for-compact-Kahler-fourfolds-October-5-2026/paper.pdf)
+&emsp;[Conditional good minimal models for compact Kähler fourfolds](preprints/Conditional-good-minimal-models-for-compact-Kahler-fourfolds-October-6-2026/paper.pdf)
 
-Assuming orbifold Iitaka subadditivity, the specified pseudo-effective fourfold minimal model program, and abundance for nef fourfold adjoints of nonnegative Kodaira dimension, we prove the existence of good minimal models for globally strongly ℚ-factorial compact Kähler klt fourfold pairs with effective rational boundary and analytically pseudo-effective actual ℚ-Cartier adjoint. The additional step is nonvanishing. We prove it by fibration arguments and, in algebraic dimension zero, by singular metrics, holomorphic foliations, and extension from a reduced boundary. The projective abundance argument used in the proof is included in full.
+Assuming orbifold Iitaka subadditivity and abundance for nef fourfold adjoints of nonnegative Kodaira dimension, we prove the existence of good minimal models for globally strongly ℚ-factorial compact Kähler klt fourfold pairs with effective rational boundary and analytically pseudo-effective actual ℚ-Cartier adjoint. The ordinary fourfold minimal model program supplies the nef endpoint. We prove nonvanishing by fibration arguments and, in algebraic dimension zero, by singular metrics, holomorphic foliations, and extension from a reduced boundary. The projective abundance argument used in the proof is included in full.
 
 </td>
 </tr></tbody>
@@ -1048,7 +1021,7 @@ Let <i>X</i> be a projective ℚ-factorial terminal threefold over an algebraica
 <tbody><tr>
 <td>
 
-&emsp;[Numerical semiampleness of nef adjoint classes on compact Kähler manifolds](preprints/Numerical-semiampleness-of-nef-adjoint-classes-on-compact-Kahler-manifolds-October-4-2026/numerical-generalized-abundance.pdf)
+&emsp;[Numerical semiampleness of nef adjoint classes on compact Kähler manifolds](preprints/Numerical-semiampleness-of-nef-adjoint-classes-on-compact-Kahler-manifolds-October-6-2026/numerical-generalized-abundance.pdf)
 
 Let <i>X</i> be a smooth connected compact Kähler manifold, let <i>B</i> be an effective rational simple normal crossing divisor with coefficients less than one, and let <i>M</i> be a nef rational holomorphic line bundle on <i>X</i>. If $`K_X+B`$ is pseudo-effective and $`K_X+B+M`$ is nef, we prove that its first Chern class in real Bott–Chern cohomology is represented by a semiample rational line bundle. This numerical statement allows a flat change of line bundle; it does not assert semiampleness of the original adjoint.
 
@@ -1460,7 +1433,7 @@ Let <i>X</i> be a smooth projective complex threefold with trivial canonical bun
 <tbody><tr>
 <td>
 
-&emsp;[Termination of generalized log canonical flips on compact Kähler fourfolds](preprints/Termination-of-generalized-log-canonical-flips-on-compact-Kahler-fourfolds-October-5-2026/termination-generalized-lc-kahler-fourfolds.pdf)
+&emsp;[Termination of generalized log canonical flips on compact Kähler fourfolds](preprints/Termination-of-generalized-log-canonical-flips-on-compact-Kahler-fourfolds-October-7-2026/termination-generalized-lc-kahler-fourfolds.pdf)
 
 Every sequence of generalized log canonical flips on a normal irreducible globally Weil ℚ-factorial compact Kähler fourfold terminates, provided the flips are projective small diagrams with the stated opposite ample signs. The boundary is rational, and the nef b-divisor is fixed and represented by an analytically nef ℚ-Cartier divisor on a projective modification. No scaling rule or pseudo-effectivity assumption is required. The theorem concerns existing flip sequences; it does not assert the existence of all contractions or flips.
 
@@ -1469,7 +1442,7 @@ Every sequence of generalized log canonical flips on a normal irreducible global
 <tbody><tr>
 <td>
 
-&emsp;[Termination of generalized-canonical flips on compact Kähler fourfolds](preprints/Termination-of-generalized-canonical-flips-on-compact-Kahler-fourfolds-October-5-2026/termination-generalized-terminal-flips-compact-kahler-fourfolds.pdf)
+&emsp;[Termination of generalized-canonical flips on compact Kähler fourfolds](preprints/Termination-of-generalized-canonical-flips-on-compact-Kahler-fourfolds-October-6-2026/termination-generalized-terminal-flips-compact-kahler-fourfolds.pdf)
 
 Every sequence of generalized-canonical flips on compact Kähler fourfolds with rational boundary and fixed rational analytically nef b-divisor terminates when the small morphisms are projective. We prove this for normal globally Weil ℚ-factorial models with boundary coefficients less than one, allowing exceptional log discrepancies equal to one. No scaling rule or pseudo-effectivity assumption is required. The theorem applies to existing projective small diagrams with the specified opposite ample signs.
 
@@ -1487,7 +1460,7 @@ We prove that every permitted minimal model program for a projective log canonic
 <tbody><tr>
 <td>
 
-&emsp;[Finite ordinary minimal model programs on compact Kähler fourfolds](preprints/Finite-ordinary-minimal-model-programs-on-compact-Kahler-fourfolds-October-5-2026/paper.pdf)
+&emsp;[Finite ordinary minimal model programs on compact Kähler fourfolds](preprints/Finite-ordinary-minimal-model-programs-on-compact-Kahler-fourfolds-October-6-2026/paper.pdf)
 
 We prove that every maximal ordinary negative-ray program starting from a compact Kähler klt fourfold pair with effective rational boundary in the global Weil-divisor ℚ-factorial category terminates. It ends at a nef model when the adjoint is pseudo-effective and at a projective Mori fibre space otherwise.
 
@@ -1678,7 +1651,7 @@ We prove the Virasoro conjecture for the ordinary descendant Gromov–Witten the
 <tbody><tr>
 <td>
 
-**066. Bounded klt complements for Fano contractions.** Proves the finite-rational-coefficient form of Shokurov’s bounded-klt-complement conjecture for <i>ϵ</i>-lc complex Fano-type pairs with nef anti-log-canonical divisor. For <i>ϵ</i>-lc Fano contractions over any algebraically closed characteristic-zero field, it gives klt complements near every base point, with index bounded only by dimension and positive rational <i>ϵ</i>.
+**066. Bounded klt complements for Fano contractions.** Proves the finite-rational-coefficient form of Shokurov’s bounded-klt-complement conjecture for <i>ϵ</i>-lc complex Fano-type pairs with nef anti-log-canonical divisor. For <i>ϵ</i>-lc Fano contractions over any algebraically closed characteristic-zero field, it gives klt complements near every base point, with index bounded only by dimension and positive rational <i>ϵ</i>. ([Lean](lean/docs/066.md))
 
 </td>
 </tr></tbody>
@@ -1896,7 +1869,7 @@ We prove the four-dimensional Hausdorff-dimension Kakeya conjecture: every subse
 <tbody><tr>
 <td>
 
-**075. The $`L\log L`$ Fourier-convergence conjecture.** Proves that the ordinary symmetric Fourier partial sums of every complex-valued function in $`L\log L(\mathbb T)`$ converge almost everywhere along the full sequence. This resolves the classical sufficiency conjecture at the $`L\log L`$ scale.
+**075. The $`L\log L`$ Fourier-convergence conjecture.** Proves that the ordinary symmetric Fourier partial sums of every complex-valued function in $`L\log L(\mathbb T)`$ converge almost everywhere along the full sequence. This resolves the classical sufficiency conjecture at the $`L\log L`$ scale. ([Lean](lean/docs/075.md))
 
 </td>
 </tr></tbody>
@@ -2578,7 +2551,7 @@ Approximating minimum directed feedback vertex set within any fixed constant fac
 <tbody><tr>
 <td>
 
-**103. Exact derandomization of logarithmic space: $`\mathsf L=\mathsf{RL}=\mathsf{BPL}`$.** Proves $`\mathsf L=\mathsf{RL}=\mathsf{BPL}`$, resolving derandomization for bounded-error logarithmic-space computation. An effective compiler converts each randomized polynomial-time logarithmic-space machine deciding a language with one-sided or two-sided error into a deterministic logarithmic-space decider with explicit polynomial running-time bounds.
+**103. Exact derandomization of logarithmic space: $`\mathsf L=\mathsf{RL}=\mathsf{BPL}`$.** Proves $`\mathsf L=\mathsf{RL}=\mathsf{BPL}`$, resolving derandomization for bounded-error logarithmic-space computation. An effective compiler converts each randomized polynomial-time logarithmic-space machine deciding a language with one-sided or two-sided error into a deterministic logarithmic-space decider with explicit polynomial running-time bounds. ([Lean](lean/docs/103.md))
 
 </td>
 </tr></tbody>
@@ -3317,7 +3290,7 @@ We prove the quasilinear-size PCP-for-PPAD conjecture of Babichenko, Papadimitri
 <tbody><tr>
 <td>
 
-**137. One-tape time simulation in two-fifths-power space.** Determines the halting and finite-control outcome of a fixed deterministic one-writable-tape machine up to time <i>T</i> using $`O(T^{2/5}\log^C(T+2))`$ space, improving the square-root exponent. Heads move at most one cell per step; finitely many read-only input heads are allowed. Initial contents are independent of <i>T</i>, and contents and input symbols have polylogarithmic-space access. Simulation time is unrestricted.
+**137. One-tape time simulation in two-fifths-power space.** Determines the halting and finite-control outcome of a fixed deterministic one-writable-tape machine up to time <i>T</i> using $`O(T^{2/5}\log^C(T+2))`$ space, improving the square-root exponent. Heads move at most one cell per step; finitely many read-only input heads are allowed. Initial contents are independent of <i>T</i>, and contents and input symbols have polylogarithmic-space access. Simulation time is unrestricted. ([Lean](lean/docs/137.md))
 
 </td>
 </tr></tbody>
@@ -4483,7 +4456,7 @@ We prove Lech's multiplicity conjecture: Hilbert–Samuel multiplicity cannot de
 <tbody><tr>
 <td>
 
-**195. A counterexample to the small Cohen–Macaulay module conjecture.** Constructs a three-dimensional complete Noetherian normal local domain over ℂ with no nonzero finitely generated maximal Cohen–Macaulay module. A three-dimensional local domain essentially of finite type over ℂ has the same property, disproving the domain form of the small Cohen–Macaulay module conjecture.
+**195. A counterexample to the small Cohen–Macaulay module conjecture.** Constructs a three-dimensional complete Noetherian normal local domain over ℂ with no nonzero finitely generated maximal Cohen–Macaulay module. A three-dimensional local domain essentially of finite type over ℂ has the same property, disproving the domain form of the small Cohen–Macaulay module conjecture. ([Lean](lean/docs/195.md))
 
 </td>
 </tr></tbody>
@@ -5620,7 +5593,7 @@ We prove that the free uniform spanning forest is a factor of IID on every infin
 <tbody><tr>
 <td>
 
-&emsp;[Gaussian free-field limits of weighted integer Lipschitz heights](preprints/Gaussian-free-field-limits-of-weighted-integer-Lipschitz-heights-September-25-2026/paper.pdf)
+&emsp;[Gaussian free-field limits of weighted integer Lipschitz heights](preprints/Gaussian-free-field-limits-of-weighted-integer-Lipschitz-heights-October-6-2026/paper.pdf)
 
 We prove a Gaussian free field scaling limit for weighted integer Lipschitz heights on the triangular lattice. With zero boundary values and a factor <i>x</i> for each edge on which the height changes, the field converges after division by a positive constant depending only on <i>x</i> to the zero-Dirichlet Gaussian free field, for every fixed $`x\in[1/\sqrt2,1]`$. The convergence holds as a random distribution on every bounded <i>C</i><sup>2</sup> Jordan domain under inside lattice approximations with uniformly convergent boundary parametrizations. This includes the uniform height model and the predicted critical endpoint.
 
@@ -5629,7 +5602,7 @@ We prove a Gaussian free field scaling limit for weighted integer Lipschitz heig
 <tbody><tr>
 <td>
 
-&emsp;[The Gaussian free field limit of integer Lipschitz heights with two-arc boundary data](preprints/The-Gaussian-free-field-limit-of-integer-Lipschitz-heights-with-two-arc-boundary-data-September-25-2026/paper.pdf)
+&emsp;[The Gaussian free field limit of integer Lipschitz heights with two-arc boundary data](preprints/The-Gaussian-free-field-limit-of-integer-Lipschitz-heights-with-two-arc-boundary-data-October-6-2026/paper.pdf)
 
 We prove that the centered uniform odd integer height function on triangular-lattice approximations of a smooth simply connected domain, with neighboring differences zero or two and boundary values +1 and −1 on two arcs, converges to a universal multiple of the Dirichlet Gaussian free field. This resolves the field part of Schramm's Problem 2.2. We give an absolutely convergent finite-volume formula for the normalization. The proof combines reflection positivity, a spectral sum rule, and boundary comparison with Gaussian moment identities.
 
@@ -5638,7 +5611,7 @@ We prove that the centered uniform odd integer height function on triangular-lat
 <tbody><tr>
 <td>
 
-&emsp;[Uniform real Lipschitz surfaces on the triangular lattice](preprints/Uniform-real-Lipschitz-surfaces-on-the-triangular-lattice-September-25-2026/paper.pdf)
+&emsp;[Uniform real Lipschitz surfaces on the triangular lattice](preprints/Uniform-real-Lipschitz-surfaces-on-the-triangular-lattice-October-6-2026/paper.pdf)
 
 We prove the Gaussian free field and SLE$`_4`$ scaling limits for uniformly sampled real nearest-neighbor Lipschitz heights on the triangular lattice, resolving Schramm's Problem 2.3. On approximations of smooth simply connected domains, the centered height field converges as a random distribution to a multiple of the Dirichlet Gaussian free field. At one tuned two-arc boundary amplitude, the zero-height interface converges in uniform curve distance to chordal SLE$`_4`$. We identify the relation between the field variance and the boundary height in terms of an implicit stationary tangent-flux coefficient.
 
@@ -5654,7 +5627,7 @@ We prove the Gaussian free field and SLE$`_4`$ scaling limits for uniformly samp
 <tbody><tr>
 <td>
 
-&emsp;[The joint scaling limit of critical Ashkin-Teller currents](preprints/The-joint-scaling-limit-of-critical-Ashkin-Teller-currents-September-25-2026/main.pdf)
+&emsp;[The joint scaling limit of critical Ashkin-Teller currents](preprints/The-joint-scaling-limit-of-critical-Ashkin-Teller-currents-October-6-2026/main.pdf)
 
 For each fixed point on the critical Ashkin–Teller line, including the four-state Potts endpoint, we prove the conjectured joint scaling limit of the height and both current-cluster collections in every bounded Jordan domain, for every admissible polygonal approximation. The height converges to a Gaussian free field with the predicted coupling constant, and the clusters converge to canonical recursive two-valued local sets of that same field. The joint limit includes all nesting depths and the distinguished wired boundary cluster.
 
@@ -7479,7 +7452,7 @@ We prove the quadratic strong-operator paving conjecture of Popa and Vaes. For e
 <tbody><tr>
 <td>
 
-**301. Trace cones and Razak–Jacelon stabilization.** Classifies separable nuclear complex <i>C</i><sup>∗</sup>-algebras after tensoring with the Razak–Jacelon algebra and the compact operators, using their full topological cones of extended lower-semicontinuous tracial weights. This answers Robert’s trace-cone question, including algebras with arbitrary ideal structure and both finite and infinite subquotients.
+**301. Trace cones and Razak–Jacelon stabilization.** Classifies separable nuclear complex <i>C</i><sup>∗</sup>-algebras after tensoring with the Razak–Jacelon algebra and the compact operators, using their full topological cones of extended lower-semicontinuous tracial weights. This answers Robert’s trace-cone question, including algebras with arbitrary ideal structure and both finite and infinite subquotients. ([Lean](lean/docs/301.md))
 
 </td>
 </tr></tbody>
@@ -8319,7 +8292,7 @@ We disprove the unrestricted nearby Lagrangian conjecture. For some sufficiently
 <tbody><tr>
 <td>
 
-&emsp;[Deforming hypersymplectic four-manifolds to hyperkähler triples](preprints/Deforming-hypersymplectic-four-manifolds-to-hyperkahler-triples-September-23-2026/paper.pdf)
+&emsp;[Deforming hypersymplectic four-manifolds to hyperkähler triples](preprints/Deforming-hypersymplectic-four-manifolds-to-hyperkahler-triples-October-7-2026/paper.pdf)
 
 Every smooth normalized positive triple of closed two-forms on a closed connected oriented four-manifold admits a smooth deformation, with each cohomology class fixed, to a hyperkähler triple. This resolves Donaldson's hypersymplectic deformation conjecture.
 
@@ -8335,9 +8308,9 @@ Every smooth normalized positive triple of closed two-forms on a closed connecte
 <tbody><tr>
 <td>
 
-&emsp;[Taming implies compatibility on four-manifolds](preprints/Taming-implies-compatibility-on-four-manifolds-September-23-2026/paper.pdf)
+&emsp;[Taming implies compatibility on four-manifolds](preprints/Taming-implies-compatibility-on-four-manifolds-October-6-2026/paper.pdf)
 
-We prove that every smooth almost complex structure on a closed four-manifold which is tamed by a symplectic form is compatible with a symplectic form. This gives a positive solution to Donaldson's tamed-to-compatible conjecture.
+We prove that every smooth almost complex structure on a closed four-manifold which is tamed by a symplectic form is compatible with a symplectic form. This gives a positive solution to Donaldson's tamed-to-compatible conjecture. We also characterize the compatible cone by strict intersection positivity on the closure of the invariant part of the taming cone.
 
 </td>
 </tr></tbody>
@@ -9144,7 +9117,7 @@ We construct smooth forces of fixed compact spatial support for three-dimensiona
 <tbody><tr>
 <td>
 
-&emsp;[Incompressible Box Transport and Finite Computation](preprints/Incompressible-Box-Transport-and-Finite-Computation-September-27-2026/manuscript.pdf)
+&emsp;[Incompressible Box Transport and Finite Computation](preprints/Incompressible-Box-Transport-and-Finite-Computation-October-6-2026/manuscript.pdf)
 
 We realize finite positive diagonal affine maps of determinant one by effective smooth incompressible flows on neighborhoods of entire closed rational solid boxes. The source and target families are each disjoint, but may overlap each other. The construction uses localized curls, evacuation to storage and obstacle detours. A balanced three-stack recorder then assigns every machine and finite input a smooth Navier–Stokes force with one compact spatial support, periodic after a loading interval, at any fixed positive computable viscosity. The fluid starts at rest, and one fixed particle enters one fixed open cube exactly when the machine halts. Further constructions give fixed torus charts, periodicity from time zero, alternative history guards and bounded or slab observers. Onto slow clocks yield separate decaying forces. Each construction includes an all-time observation proof, effective derivative bounds and a stated pressure comparison class.
 

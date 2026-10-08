@@ -34,12 +34,12 @@ Status legend / 状态说明:
 | 024 | Number theory | An asymptotic formula for the number of totients | 1 | — | ⬜ unchecked |  |
 | 025 | Number theory | Erdos’s short Egyptian-fraction conjecture | 1 | 1/1 | ⬜ unchecked |  |
 | 026 | Number theory | Positive lower density of large prime gaps | 1 | — | ⬜ unchecked |  |
-| 027 | Number theory | Integral density on curve character varieties | 1 | — | ⬜ unchecked |  |
+| 027 | Number theory | Integral density on curve character varieties | 1 | 1/1 | ⬜ unchecked |  |
 | 028 | Number theory | The Gaussian moat conjecture | 1 | 1/1 | ⬜ unchecked |  |
 | 029 | Number theory | Artin's primitive root conjecture: infinitude for every base | 2 | — | ⬜ unchecked |  |
 | 030 | Number theory | Modularity over imaginary quadratic fields | 1 | — | ⬜ unchecked |  |
 | 031 | Number theory | Uchida's conjecture for open Galois homomorphisms | 1 | — | ⬜ unchecked |  |
-| 032 | Algebraic and complex geometry | The rational Hodge conjecture for CM abelian varieties and products of K3 surfaces | 8 | — | ⬜ unchecked |  |
+| 032 | Algebraic and complex geometry | The rational Hodge conjecture for CM abelian varieties | 5 | — | ⬜ unchecked |  |
 | 033 | Algebraic and complex geometry | Campana's orbifold Iitaka conjecture and logarithmic subadditivity | 5 | — | ⬜ unchecked |  |
 | 034 | Algebraic and complex geometry | Log abundance and effective Iitaka fibrations | 14 | — | ⬜ unchecked |  |
 | 035 | Algebraic and complex geometry | Threefold log abundance in numerical dimension one in characteristic p>3 | 2 | — | ⬜ unchecked |  |
@@ -55,7 +55,7 @@ Status legend / 状态说明:
 | 046 | Algebraic and complex geometry | Counterexamples to Shafarevich holomorphic convexity | 2 | — | ⬜ unchecked |  |
 | 047 | Algebraic and complex geometry | Complex counterexamples to cancellation and affine fibrations | 1 | 1/1 | ⬜ unchecked |  |
 | 048 | Algebraic and complex geometry | A characteristic-zero counterexample to Lipman–Zariski | 1 | — | ⬜ unchecked |  |
-| 049 | Algebraic and complex geometry | A stable-coordinate counterexample in four variables | 2 | 1/2 | ⬜ unchecked |  |
+| 049 | Algebraic and complex geometry | A stable-coordinate counterexample in four variables | 2 | 2/2 | ⬜ unchecked |  |
 | 050 | Algebraic and complex geometry | A counterexample to Griffiths' positivity conjecture | 1 | 1/1 | ⬜ unchecked |  |
 | 051 | Algebraic and complex geometry | Kobayashi's canonical-ampleness conjecture | 1 | — | ⬜ unchecked |  |
 | 052 | Algebraic and complex geometry | Tangent-bundle splittings and universal covers | 2 | 1/2 | ⬜ unchecked |  |
@@ -71,7 +71,7 @@ Status legend / 状态说明:
 | 063 | Algebraic and complex geometry | The generalized Mukai conjecture | 1 | — | ⬜ unchecked |  |
 | 064 | Algebraic and complex geometry | The μ-constant problem for surface singularities | 1 | — | ⬜ unchecked |  |
 | 065 | Algebraic and complex geometry | Virasoro constraints for complete intersections and projective bundles | 2 | — | ⬜ unchecked |  |
-| 066 | Algebraic and complex geometry | Bounded klt complements for Fano contractions | 2 | — | ⬜ unchecked |  |
+| 066 | Algebraic and complex geometry | Bounded klt complements for Fano contractions | 2 | 1/2 | ⬜ unchecked |  |
 | 067 | Algebraic and complex geometry | The Campana–Peternell conjecture in dimension six | 1 | — | ⬜ unchecked |  |
 | 068 | Algebraic and complex geometry | Anticanonical nonvanishing under smooth semipositivity | 7 | — | ⬜ unchecked |  |
 | 069 | Algebraic and complex geometry | Quantum geometric Langlands at irrational level | 1 | — | ⬜ unchecked |  |
@@ -79,7 +79,7 @@ Status legend / 状态说明:
 | 072 | Real and complex analysis | Brennan's conjecture and a counterexample to Kraetzer's prediction | 2 | 2/2 | ⬜ unchecked |  |
 | 073 | Real and complex analysis | The Falconer distance conjecture | 1 | 1/1 | ⬜ unchecked |  |
 | 074 | Real and complex analysis | Kakeya in three and four dimensions | 2 | — | ⬜ unchecked |  |
-| 075 | Real and complex analysis | The L log L Fourier-convergence conjecture | 1 | — | ⬜ unchecked |  |
+| 075 | Real and complex analysis | The L log L Fourier-convergence conjecture | 1 | 1/1 | ⬜ unchecked |  |
 | 076 | Real and complex analysis | Ultraflat real Littlewood polynomials | 3 | 1/3 | ⬜ unchecked |  |
 | 077 | Real and complex analysis | Fourier restriction for positively curved surfaces | 2 | — | ⬜ unchecked |  |
 | 078 | Real and complex analysis | The three-dimensional Bochner–Riesz conjecture | 1 | — | ⬜ unchecked |  |
@@ -107,7 +107,7 @@ Status legend / 状态说明:
 | 100 | Convex and metric geometry | A counterexample to Bang's cylinder-covering bound | 4 | — | ⬜ unchecked |  |
 | 101 | Convex and metric geometry | The sharp simplex conjecture for isotropic constants | 1 | — | ⬜ unchecked |  |
 | 102 | Theoretical computer science | The Unique Games Conjecture and optimal approximation thresholds | 5 | 3/5 | ⬜ unchecked |  |
-| 103 | Theoretical computer science | Derandomization of logarithmic space: L=RL=BPL | 1 | — | ⬜ unchecked |  |
+| 103 | Theoretical computer science | Derandomization of logarithmic space: L=RL=BPL | 1 | 1/1 | ⬜ unchecked |  |
 | 104 | Theoretical computer science | Quasipolynomial algorithms for mean-payoff, stochastic and parity games | 4 | 1/4 | ⬜ unchecked |  |
 | 105 | Theoretical computer science | The 2-to-1 Games Conjecture with perfect completeness | 1 | 1/1 | ⬜ unchecked |  |
 | 106 | Theoretical computer science | Hardness of coloring three-colorable graphs | 1 | 1/1 | ⬜ unchecked |  |
@@ -133,14 +133,14 @@ Status legend / 状态说明:
 | 127 | Theoretical computer science | The asymptotic Gotsman–Linial conjecture | 1 | 1/1 | ⬜ unchecked |  |
 | 128 | Theoretical computer science | A factor-two approximation for shortest common superstring | 1 | 1/1 | ⬜ unchecked |  |
 | 129 | Theoretical computer science | Exponential state costs for two-way automata | 2 | 2/2 | ⬜ unchecked |  |
-| 130 | Theoretical computer science | Fourier transforms below n log n | 2 | 1/2 | ⬜ unchecked |  |
+| 130 | Theoretical computer science | Fourier transforms below n log n | 2 | 2/2 | ⬜ unchecked |  |
 | 131 | Theoretical computer science | Polynomial mixing of graph switches with prescribed degrees | 1 | — | ⬜ unchecked |  |
 | 132 | Theoretical computer science | A counterexample to the quadratic sensitivity conjecture | 1 | 1/1 | ⬜ unchecked |  |
 | 133 | Theoretical computer science | The complexity of Weisfeiler–Leman refinement | 4 | — | ⬜ unchecked |  |
 | 134 | Theoretical computer science | Generalized star height at most three | 3 | — | ⬜ unchecked |  |
 | 135 | Theoretical computer science | Sharp homogeneous depth-five complexity of matrix products | 1 | — | ⬜ unchecked |  |
 | 136 | Theoretical computer science | The quasilinear PCP-for-PPAD conjecture | 1 | — | ⬜ unchecked |  |
-| 137 | Theoretical computer science | One-tape time simulation in two-fifths-power space | 1 | — | ⬜ unchecked |  |
+| 137 | Theoretical computer science | One-tape time simulation in two-fifths-power space | 1 | 1/1 | ⬜ unchecked |  |
 | 138 | Theoretical computer science | Subset Sum in O(2^0.49n) time | 2 | — | ⬜ unchecked |  |
 | 139 | Theoretical computer science | Subpolynomial queries for log-concave sampling | 1 | 1/1 | ⬜ unchecked |  |
 | 140 | Theoretical computer science | Memory–sample lower bounds for noiseless Gaussian regression | 6 | 5/6 | ⬜ unchecked |  |
@@ -160,7 +160,7 @@ Status legend / 状态说明:
 | 154 | Dynamical systems and ergodic theory | Pointwise multiple ergodic averages for mixing transformations | 4 | — | ⬜ unchecked |  |
 | 155 | Combinatorics | A counterexample to periodic tiling in dimension three | 1 | 1/1 | ⬜ unchecked |  |
 | 156 | Combinatorics | Borsuk's conjecture fails in dimension nine | 1 | 1/1 | ⬜ unchecked |  |
-| 157 | Combinatorics | Counterexamples to the Hadwiger and Colin de Verdière conjectures | 3 | — | ⬜ unchecked |  |
+| 157 | Combinatorics | Counterexamples to the Hadwiger and Colin de Verdière conjectures | 3 | 1/3 | ⬜ unchecked |  |
 | 158 | Combinatorics | The Euclidean plane cannot be colored with five colors | 1 | 1/1 | ⬜ unchecked |  |
 | 159 | Combinatorics | Erdos's reciprocal-sum conjecture and quasipolynomial Szemerédi bounds | 1 | — | ⬜ unchecked |  |
 | 160 | Combinatorics | Superexponential van der Waerden numbers | 1 | 1/1 | ⬜ unchecked |  |
@@ -197,7 +197,7 @@ Status legend / 状态说明:
 | 192 | Combinatorics | A counterexample to the Gopalan–Servedio conjecture | 1 | — | ⬜ unchecked |  |
 | 193 | Algebra | Serre's intersection-multiplicity conjecture | 1 | — | ⬜ unchecked |  |
 | 194 | Algebra | Lech's multiplicity conjecture | 1 | — | ⬜ unchecked |  |
-| 195 | Algebra | A counterexample to the small Cohen–Macaulay module conjecture | 1 | — | ⬜ unchecked |  |
+| 195 | Algebra | A counterexample to the small Cohen–Macaulay module conjecture | 1 | 1/1 | ⬜ unchecked |  |
 | 196 | Algebra | A counterexample to Kaplansky's zero-divisor conjecture | 1 | 1/1 | ⬜ unchecked |  |
 | 197 | Algebra | Nonsofic groups and group-ring counterexamples | 4 | 3/4 | ⬜ unchecked |  |
 | 198 | Algebra | A counterexample to the little finitistic-dimension conjecture | 1 | 1/1 | ⬜ unchecked |  |
@@ -239,7 +239,7 @@ Status legend / 状态说明:
 | 234 | Probability and statistical mechanics | All-temperature pressure for orthogonally invariant Ising spin glasses | 1 | — | ⬜ unchecked |  |
 | 235 | Probability and statistical mechanics | Random-SAT thresholds, sharp variance and computability | 4 | — | ⬜ unchecked |  |
 | 236 | Probability and statistical mechanics | The factor-of-IID threshold for free Ising states on trees | 1 | 1/1 | ⬜ unchecked |  |
-| 237 | Probability and statistical mechanics | The three-quarter diameter exponent for honeycomb walks | 13 | — | ⬜ unchecked |  |
+| 237 | Probability and statistical mechanics | The three-quarter diameter exponent for honeycomb walks | 13 | 1/13 | ⬜ unchecked |  |
 | 238 | Probability and statistical mechanics | Optimal logarithmic mixing of the Thorp shuffle | 12 | 3/12 | ⬜ unchecked |  |
 | 239 | Probability and statistical mechanics | Sharp singularity rates for symmetric sign matrices | 2 | — | ⬜ unchecked |  |
 | 240 | Mathematical logic | Shelah's eventual categoricity conjecture | 2 | 1/2 | ⬜ unchecked |  |
@@ -303,7 +303,7 @@ Status legend / 状态说明:
 | 298 | Operator algebras | A counterexample to Voiculescu’s free-entropy equality conjecture | 1 | — | ⬜ unchecked |  |
 | 299 | Operator algebras | The Kirchberg–Rrdam character criterion | 1 | 1/1 | ⬜ unchecked |  |
 | 300 | Operator algebras | The Popa–Vaes quadratic strong-operator paving conjecture | 2 | — | ⬜ unchecked |  |
-| 301 | Operator algebras | Classification by trace cones after Razak–Jacelon stabilization | 1 | — | ⬜ unchecked |  |
+| 301 | Operator algebras | Classification by trace cones after Razak–Jacelon stabilization | 1 | 1/1 | ⬜ unchecked |  |
 | 302 | Operator algebras | The Phillips–Toms formula for minimal integer actions | 2 | — | ⬜ unchecked |  |
 | 303 | Operator algebras | From ordinary to strong pure infiniteness | 1 | — | ⬜ unchecked |  |
 | 304 | Topo log y | The Hilbert–Smith conjecture in every dimension | 1 | — | ⬜ unchecked |  |
@@ -344,7 +344,7 @@ Status legend / 状态说明:
 | 339 | Differential geometry | Katok's entropy rigidity conjecture | 1 | — | ⬜ unchecked |  |
 | 340 | Differential geometry | A counterexample to the nearby Lagrangian conjecture | 1 | — | ⬜ unchecked |  |
 | 341 | Differential geometry | Donaldson's hypersymplectic deformation conjecture | 1 | — | ⬜ unchecked |  |
-| 342 | Differential geometry | Donaldson's tamed-to-compatible conjecture | 1 | 1/1 | ⬜ unchecked |  |
+| 342 | Differential geometry | Donaldson's tamed-to-compatible conjecture | 1 | — | ⬜ unchecked |  |
 | 343 | Differential geometry | Sharp symplectic ball-packing criteria in higher dimensions | 1 | — | ⬜ unchecked |  |
 | 344 | Differential geometry | The metric Blaschke conjecture | 1 | — | ⬜ unchecked |  |
 | 345 | Differential geometry | Infinitely many closed geodesics on spheres and three-manifolds | 1 | — | ⬜ unchecked |  |

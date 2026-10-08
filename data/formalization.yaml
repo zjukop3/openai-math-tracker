@@ -24,9 +24,19 @@ sources:
     id: ../preprints/A-classification-of-finite-Euclidean-Ramsey-configurations-September-23-2026/paper.pdf
     type: article
 
+  - title: "A Complete Local Domain without a Small Cohen–Macaulay Module"
+    authors: ["OpenAI"]
+    id: ../preprints/A-Complete-Local-Domain-Without-a-Small-Cohen-Macaulay-Module-September-23-2026/paper.pdf
+    type: article
+
   - title: "A continuum temperature singularity for a radial pair potential"
     authors: ["OpenAI"]
     id: ../preprints/A-continuum-temperature-singularity-for-a-radial-pair-potential-September-24-2026/paper.pdf
+    type: article
+
+  - title: "A counterexample to Hadwiger's conjecture"
+    authors: ["OpenAI"]
+    id: ../preprints/A-counterexample-to-Hadwigers-conjecture-September-23-2026/paper.pdf
     type: article
 
   - title: "A counterexample to integer-degree harmonic dimension comparison"
@@ -164,6 +174,11 @@ sources:
     id: ../preprints/A-Smooth-Metric-with-No-Local-Isometric-Immersion-into-Three-Space-September-24-2026/paper.pdf
     type: article
 
+  - title: "A stable coordinate that is not a coordinate in four variables"
+    authors: ["OpenAI"]
+    id: ../preprints/A-stable-coordinate-that-is-not-a-coordinate-in-four-variables-October-5-2026/stable-coordinate-four-variables.pdf
+    type: article
+
   - title: "A strict inverse-first-power bound for univalent functions"
     authors: ["OpenAI"]
     id: ../preprints/A-strict-inverse-first-power-bound-for-univalent-functions-September-24-2026/paper.pdf
@@ -204,6 +219,11 @@ sources:
     id: ../preprints/Additive-hardness-and-unbounded-configuration-gaps-in-bin-packing-September-24-2026/Additive-hardness-and-unbounded-configuration-gaps-in-bin-packing-September-24-2026.pdf
     type: article
 
+  - title: "Almost-everywhere Fourier convergence in L log L"
+    authors: ["OpenAI"]
+    id: ../preprints/Almost-everywhere-Fourier-convergence-in-L-log-L-September-23-2026/paper.pdf
+    type: article
+
   - title: "Ample rank-two bundles on the quadric surface without Griffiths-positive metrics"
     authors: ["OpenAI"]
     id: ../preprints/ample-rank-two-bundles-on-the-quadric-surface-without-griffiths-positive-metrics-September-24-2026/paper.pdf
@@ -237,6 +257,11 @@ sources:
   - title: "An explicit noncoordinate polynomial with affine three-space zero fibre"
     authors: ["OpenAI"]
     id: ../preprints/An-explicit-noncoordinate-polynomial-with-affine-three-space-zero-fibre-September-24-2026/paper.pdf
+    type: article
+
+  - title: "An explicit power saving for the exact discrete Fourier transform"
+    authors: ["OpenAI"]
+    id: ../preprints/An-explicit-power-saving-for-the-exact-discrete-Fourier-transform-September-25-2026/main.pdf
     type: article
 
   - title: "An exponential state lower bound for two-way nondeterministic complementation"
@@ -344,6 +369,11 @@ sources:
     id: ../preprints/Critical-bond-and-site-percolation-on-the-cubic-lattice-September-24-2026/paper.pdf
     type: article
 
+  - title: "Critical honeycomb chords with prescribed boundary endpoints"
+    authors: ["OpenAI"]
+    id: ../preprints/Critical-honeycomb-chords-with-prescribed-boundary-endpoints-September-26-2026/main.pdf
+    type: article
+
   - title: "Critical slowing down in the Sherrington–Kirkpatrick model"
     authors: ["OpenAI"]
     id: ../preprints/Critical-slowing-down-in-the-Sherrington-Kirkpatrick-model-September-24-2026/paper.pdf
@@ -367,6 +397,11 @@ sources:
   - title: "Exact asymptotic moduli in a Daugavet subspace of L1"
     authors: ["OpenAI"]
     id: ../preprints/Exact-asymptotic-moduli-in-a-Daugavet-subspace-of-L1-September-27-2026/manuscript.pdf
+    type: article
+
+  - title: "Exact derandomization of logarithmic space: L = RL = BPL"
+    authors: ["OpenAI"]
+    id: ../preprints/Exact-Derandomization-of-Logarithmic-Space-L-equals-RL-equals-BPL-September-23-2026/paper.pdf
     type: article
 
   - title: "Exponential decay in two-dimensional classical O(n) models"
@@ -417,6 +452,11 @@ sources:
   - title: "Integral and fractional expectation thresholds are equivalent"
     authors: ["OpenAI"]
     id: ../preprints/Integral-and-fractional-expectation-thresholds-are-equivalent-September-23-2026/paper.pdf
+    type: article
+
+  - title: "Integral points on character varieties of curves"
+    authors: ["OpenAI"]
+    id: ../preprints/Integral-points-on-character-varieties-of-curves-September-25-2026/paper.pdf
     type: article
 
   - title: "Lipschitz Equivalent Separable Banach Spaces Need Not Be Linearly Isomorphic"
@@ -572,6 +612,11 @@ sources:
   - title: "Short Egyptian fractions"
     authors: ["OpenAI"]
     id: ../preprints/Short-Egyptian-fractions-September-25-2026/Short-Egyptian-fractions-September-25-2026.pdf
+    type: article
+
+  - title: "Simulating One-Tape Time in Two-Fifths-Power Space"
+    authors: ["OpenAI"]
+    id: ../preprints/Simulating-One-Tape-Time-in-Two-Fifths-Power-Space-September-25-2026/article.pdf
     type: article
 
   - title: "Single-exponential recovery and bounded-price strictness for metric k-median"
@@ -759,6 +804,11 @@ sources:
     id: ../preprints/The-symmetric-Mahler-conjecture-and-its-equality-cases-September-22-2026/paper.pdf
     type: article
 
+  - title: "The trace cone classifies Razak–Jacelon stabilizations"
+    authors: ["OpenAI"]
+    id: ../preprints/The-trace-cone-classifies-Razak-Jacelon-stabilizations-September-25-2026/The-trace-cone-classifies-Razak-Jacelon-stabilizations-September-25-2026.pdf
+    type: article
+
   - title: "The Unique Games Theorem"
     authors: ["OpenAI"]
     id: ../preprints/The-Unique-Games-Theorem-September-23-2026/paper.pdf
@@ -797,6 +847,11 @@ sources:
   - title: "Uniform Bi-Hölder Transport from Weak MTW"
     authors: ["OpenAI"]
     id: ../preprints/Uniform-Bi-Holder-Transport-from-Weak-MTW-September-25-2026/paper.pdf
+    type: article
+
+  - title: "Uniform Cartier sections for Fano type contractions"
+    authors: ["OpenAI"]
+    id: ../preprints/Uniform-Cartier-sections-for-Fano-type-contractions-September-25-2026/Uniform-Cartier-sections-for-Fano-type-contractions-September-25-2026.pdf
     type: article
 
   - title: "Uniform exclusion of Landau–Siegel zeros"
@@ -999,9 +1054,17 @@ status:
       declaration: OAI.CHObstruction.main
       file: OAI/ModelTheory/Categoricity/Main.lean
 
+    - comparator_config: ComparatorChallenges/CartierChartCompactnessSupport.json
+      declaration: OAI.CartierSections.isCompact_closedChartFieldRetraction_cone
+      file: OAI/AlgebraicGeometry/CartierSections/ChartCompactness.lean
+
     - comparator_config: ComparatorChallenges/CharacterCriterion.json
       declaration: OAI.KirchbergRordam.character_criterion
       file: OAI/Analysis/CharacterCriterion/Main.lean
+
+    - comparator_config: ComparatorChallenges/CharacterVarietiesAllSeamsSupport.json
+      declaration: OAI.IntegralCharacterVarieties.SurfacePresentation.Diagram.producedMarkedValues_allSeams
+      file: OAI/AlgebraicGeometry/CharacterVarieties/Seams/ProducedSolution.lean
 
     - comparator_config: ComparatorChallenges/ChoicelessPolynomialTime.json
       declaration: OAI.CPTSeparation.main
@@ -1171,6 +1234,10 @@ status:
       declaration: OAI.Problem346.canonical_foulkes_howe_surjective
       file: OAI/RepresentationTheory/FoulkesHowe/Stabilization.lean
 
+    - comparator_config: ComparatorChallenges/FourierLLogL.json
+      declaration: OAI.FourierLLogL.paperMain
+      file: OAI/Analysis/FourierLLogL/PaperMain.lean
+
     - comparator_config: ComparatorChallenges/FreeIsing.json
       declaration: OAI.Problem367.free_ising_factor_iff_threshold
       file: OAI/Probability/FreeIsing/Main.lean
@@ -1207,6 +1274,10 @@ status:
       declaration: OAI.GroupRingDeterminant.main
       file: OAI/Analysis/GroupDeterminants/Main.lean
 
+    - comparator_config: ComparatorChallenges/HadwigerCounterexample.json
+      declaration: OAI.HadwigerCounterexample.not_hadwiger_conjecture
+      file: OAI/Combinatorics/HadwigerCounterexample/Main.lean
+
     - comparator_config: ComparatorChallenges/HarmonicArtin.json
       declaration: OAI.HarmonicArtin.salvetti_cover_contractible
       file: OAI/Topology/ArtinGroups/Realizations/SalvettiCoverContractible.lean
@@ -1222,6 +1293,10 @@ status:
     - comparator_config: ComparatorChallenges/HenonEmden.json
       declaration: OAI.HenonLaneEmden.main_nonexistence
       file: OAI/Analysis/HenonEmden/Main.lean
+
+    - comparator_config: ComparatorChallenges/HoneycombBridgeMassSupport.json
+      declaration: OAI.CriticalHoneycomb.finiteBridgeMassEstimate
+      file: OAI/Combinatorics/HoneycombChords/BridgeMass.lean
 
     - comparator_config: ComparatorChallenges/HyperbolicCones.json
       declaration: OAI.Paper256.main_result
@@ -1295,6 +1370,10 @@ status:
       declaration: OAI.LogConcaveSampling.exact_source_main
       file: OAI/Probability/LogConcave/Main.lean
 
+    - comparator_config: ComparatorChallenges/LogspaceEquality.json
+      declaration: OAI.ExactDerandomization.exact_logarithmic_space_derandomization
+      file: OAI/Computability/Logspace/Equality.lean
+
     - comparator_config: ComparatorChallenges/MahlerConjecture.json
       declaration: OAI.SymmetricMahler.symmetric_mahler
       file: OAI/Analysis/Mahler/MainTheorem.lean
@@ -1350,6 +1429,14 @@ status:
     - comparator_config: ComparatorChallenges/OddKaplansky.json
       declaration: OAI.OddKaplansky.main_theorem
       file: OAI/Algebra/OddKaplansky/Main.lean
+
+    - comparator_config: ComparatorChallenges/OneTapeSpace.json
+      declaration: OAI.Fifths.Single.capped
+      file: OAI/Computability/SpaceSimulation/Main.lean
+
+    - comparator_config: ComparatorChallenges/OneTapeSpace.json
+      declaration: OAI.Fifths.Single.unknown
+      file: OAI/Computability/SpaceSimulation/Main.lean
 
     - comparator_config: ComparatorChallenges/OneWayLiveness.json
       declaration: OAI.OneWayLiveness.main_theorem
@@ -1527,6 +1614,10 @@ status:
       declaration: OAI.YauCounterexamples.sphere_two_torus_two
       file: OAI/Geometry/SmoothYau/ProductMetric/SphereProduct.lean
 
+    - comparator_config: ComparatorChallenges/StableCoordinateFour.json
+      declaration: OAI.StableCoordinate.principal_package
+      file: OAI/AlgebraicGeometry/StableCoordinate/Principal.lean
+
     - comparator_config: ComparatorChallenges/SteinitzBergstrom.json
       declaration: OAI.EuclideanSteinitzBergstrom.main
       file: OAI/Analysis/Steinitz/Main.lean
@@ -1554,6 +1645,10 @@ status:
     - comparator_config: ComparatorChallenges/Superstring.json
       declaration: OAI.Superstring.main
       file: OAI/Computability/Superstring/Main.lean
+
+    - comparator_config: ComparatorChallenges/SurfaceConeCandidateSupport.json
+      declaration: OAI.SmallCM.candidate_ring_properties
+      file: OAI/AlgebraicGeometry/SurfaceCones/CandidateRing.lean
 
     - comparator_config: ComparatorChallenges/SymmetricDomains.json
       declaration: OAI.Release061.main
@@ -1607,6 +1702,18 @@ status:
       declaration: OAI.TorsionFreeZeroDivisors.main
       file: OAI/Algebra/GroupRing/Main.lean
 
+    - comparator_config: ComparatorChallenges/TraceIdealTransportSupport.json
+      declaration: OAI.TraceConeClassification.TraceConeEquiv.idealOrderIso_finIdeal
+      file: OAI/Analysis/TraceCone/IdealTransport.lean
+
+    - comparator_config: ComparatorChallenges/TraceIdealTransportSupport.json
+      declaration: OAI.TraceConeClassification.TraceConeEquiv.idealOrderIso_zeroIdeal
+      file: OAI/Analysis/TraceCone/IdealTransport.lean
+
+    - comparator_config: ComparatorChallenges/TraceIdealTransportSupport.json
+      declaration: OAI.TraceConeClassification.closed_ideal_weight_exists
+      file: OAI/Analysis/TraceCone/FiniteIdeal.lean
+
     - comparator_config: ComparatorChallenges/TriangularHilbert.json
       declaration: OAI.TriangularHilbert.main_estimate
       file: OAI/Analysis/TriangularHilbert/Main.lean
@@ -1618,6 +1725,14 @@ status:
     - comparator_config: ComparatorChallenges/TwoWayDeterminization.json
       declaration: OAI.TwoWayComplementation.explicit_family_main
       file: OAI/Combinatorics/TwoWayAutomata/ExplicitFamily.lean
+
+    - comparator_config: ComparatorChallenges/UniformFourier.json
+      declaration: OAI.PowerSaving.transform_main
+      file: OAI/Computability/FourierTransform/Main.lean
+
+    - comparator_config: ComparatorChallenges/UniformFourier.json
+      declaration: OAI.PowerSaving.convolution_main
+      file: OAI/Computability/FourierTransform/Main.lean
 
     - comparator_config: ComparatorChallenges/UniformGamma.json
       declaration: OAI.ComparatorModel.CurrentMain.main

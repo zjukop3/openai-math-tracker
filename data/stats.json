@@ -1,5 +1,5 @@
 {
-  "manuscripts": 722,
+  "manuscripts": 719,
   "families": 372,
   "disciplines": {
     "Number theory": 31,
@@ -20,10 +20,10 @@
     "Differential geometry": 29,
     "Partial differential equations": 16
   },
-  "formalized_manuscripts": 162,
+  "formalized_manuscripts": 172,
   "formalization_scope": "Partial progress.",
   "lean_review_status": "unchecked",
-  "lean_main_results": 185,
+  "lean_main_results": 200,
   "reasoning_traces": 10,
   "reasoning_trace_files": [
     "basic-semidefinite-threshold-np-hardness.pdf",

@@ -3,6 +3,7 @@ free-group-factor-isomorphism.pdf
 irrationality-exponent-of-pi.pdf
 kaplansky-direct-finiteness-characteristic-two.pdf
 mezard-parisi-formula.pdf
+mezard-parisi-formula.tex
 ordinary-two-point-correlations.pdf
 quasipolynomial-arithmetic-progressions.pdf
 relativistic-vlasov-maxwell.pdf
