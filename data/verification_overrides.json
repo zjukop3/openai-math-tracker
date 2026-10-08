@@ -1,0 +1,11 @@
+{
+  "$schema": "Community verification overrides for docs/VERIFICATION.md",
+  "_howto": [
+    "Add one entry per family you have independently checked, keyed by family id (e.g. \"197\").",
+    "status: one of confirmed | partial | issue-found | refuted",
+    "evidence: link to your writeup / Lean build log / MathOverflow thread / commit",
+    "Send a PR editing only this file; CI regenerates docs/VERIFICATION.md."
+  ],
+  "overrides": {
+  }
+}

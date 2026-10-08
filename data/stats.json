@@ -1,0 +1,40 @@
+{
+  "manuscripts": 722,
+  "families": 372,
+  "disciplines": {
+    "Number theory": 31,
+    "Algebraic and complex geometry": 36,
+    "Real and complex analysis": 16,
+    "Convex and metric geometry": 15,
+    "Theoretical computer science": 40,
+    "Dynamical systems and ergodic theory": 12,
+    "Combinatorics": 37,
+    "Algebra": 18,
+    "Probability and statistical mechanics": 29,
+    "Mathematical logic": 6,
+    "Group theory": 14,
+    "Mathematical physics": 25,
+    "Operator algebras": 19,
+    "Topo log y": 18,
+    "Functional analysis": 11,
+    "Differential geometry": 29,
+    "Partial differential equations": 16
+  },
+  "formalized_manuscripts": 162,
+  "formalization_scope": "Partial progress.",
+  "lean_review_status": "unchecked",
+  "lean_main_results": 185,
+  "reasoning_traces": 10,
+  "reasoning_trace_files": [
+    "basic-semidefinite-threshold-np-hardness.pdf",
+    "free-group-factor-isomorphism.pdf",
+    "irrationality-exponent-of-pi.pdf",
+    "kaplansky-direct-finiteness-characteristic-two.pdf",
+    "mezard-parisi-formula.pdf",
+    "ordinary-two-point-correlations.pdf",
+    "quasipolynomial-arithmetic-progressions.pdf",
+    "relativistic-vlasov-maxwell.pdf",
+    "spontaneous-magnetization-quantum-heisenberg-ferromagnet.pdf",
+    "symmetric-and-general-mahler-conjectures.pdf"
+  ]
+}

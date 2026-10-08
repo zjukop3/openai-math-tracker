@@ -1,0 +1,10 @@
+basic-semidefinite-threshold-np-hardness.pdf
+free-group-factor-isomorphism.pdf
+irrationality-exponent-of-pi.pdf
+kaplansky-direct-finiteness-characteristic-two.pdf
+mezard-parisi-formula.pdf
+ordinary-two-point-correlations.pdf
+quasipolynomial-arithmetic-progressions.pdf
+relativistic-vlasov-maxwell.pdf
+spontaneous-magnetization-quantum-heisenberg-ferromagnet.pdf
+symmetric-and-general-mahler-conjectures.pdf
