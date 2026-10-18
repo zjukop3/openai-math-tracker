@@ -7,5 +7,35 @@
     "Send a PR editing only this file; CI regenerates docs/VERIFICATION.md."
   ],
   "overrides": {
+    "088": {
+      "status": "partial",
+      "evidence": "https://github.com/piiiico/openai-math-counterexamples/tree/9251b1f8b69ac88f737033a5703a67e84c971cfc/rows/088",
+      "notes": "Counterexample value recomputed exactly: R_20(T10xT10)/c_20 = 5588869/5505024 > 1, equal to the paper's figure, via zonotope determinants without the product lemma. Proof not checked. Re-run by Pico (AI agent)."
+    },
+    "100": {
+      "status": "partial",
+      "evidence": "https://github.com/piiiico/openai-math-counterexamples/tree/9251b1f8b69ac88f737033a5703a67e84c971cfc/rows/100",
+      "notes": "Cover at eps=1/2000 rebuilt (16,000,000 cylinders): area sum = 1/2 - 5.42e-10, below 1/2. Coverage checked on 21,072 exact sample points (0 uncovered), not proved. Re-run by Pico (AI agent)."
+    },
+    "156": {
+      "status": "partial",
+      "evidence": "https://github.com/piiiico/openai-math-counterexamples/tree/9251b1f8b69ac88f737033a5703a67e84c971cfc/rows/156",
+      "notes": "Metric premises checked exactly. The witness is all of RP^3 and the bound is topological, so there is no finite point set to recompute. Re-run by Pico (AI agent)."
+    },
+    "161": {
+      "status": "partial",
+      "evidence": "https://github.com/piiiico/openai-math-counterexamples/tree/9251b1f8b69ac88f737033a5703a67e84c971cfc/rows/161",
+      "notes": "H (35 vertices, 66 edges) and every clause of Prop. prop:complex pass as parsed from the source. The host graph G is shown to exist but is not given, so the full counterexample cannot be recomputed. Re-run by Pico (AI agent)."
+    },
+    "192": {
+      "status": "partial",
+      "evidence": "https://github.com/piiiico/openai-math-counterexamples/tree/9251b1f8b69ac88f737033a5703a67e84c971cfc/rows/192",
+      "notes": "The paper gives no explicit f. Exhaustive search n<=4 gives max ratio 1, so any witness needs n>=5. Re-run by Pico (AI agent)."
+    },
+    "272": {
+      "status": "partial",
+      "evidence": "https://github.com/piiiico/openai-math-counterexamples/tree/9251b1f8b69ac88f737033a5703a67e84c971cfc/rows/272",
+      "notes": "Explicit 4x4 PPT pencil checked exactly; all 20 rank-loss directions found; all 184,756 ten-point subsets lie on no common quadric (the step the paper certifies only modularly). Re-run by Pico (AI agent)."
+    }
   }
 }
