@@ -39,7 +39,7 @@ Status legend / 状态说明:
 | 029 | Number theory | Artin's primitive root conjecture: infinitude for every base | 2 | — | ⬜ unchecked |  |
 | 030 | Number theory | Modularity over imaginary quadratic fields | 1 | — | ⬜ unchecked |  |
 | 031 | Number theory | Uchida's conjecture for open Galois homomorphisms | 1 | — | ⬜ unchecked |  |
-| 032 | Algebraic and complex geometry | The rational Hodge conjecture for CM abelian varieties | 5 | — | ⬜ unchecked |  |
+| 032 | Algebraic and complex geometry | The rational Hodge conjecture for CM abelian varieties | 5 | 1/5 | ⬜ unchecked |  |
 | 033 | Algebraic and complex geometry | Campana's orbifold Iitaka conjecture and logarithmic subadditivity | 5 | — | ⬜ unchecked |  |
 | 034 | Algebraic and complex geometry | Log abundance and effective Iitaka fibrations | 14 | — | ⬜ unchecked |  |
 | 035 | Algebraic and complex geometry | Threefold log abundance in numerical dimension one in characteristic p>3 | 2 | — | ⬜ unchecked |  |
@@ -83,7 +83,7 @@ Status legend / 状态说明:
 | 076 | Real and complex analysis | Ultraflat real Littlewood polynomials | 3 | 1/3 | ⬜ unchecked |  |
 | 077 | Real and complex analysis | Fourier restriction for positively curved surfaces | 2 | — | ⬜ unchecked |  |
 | 078 | Real and complex analysis | The three-dimensional Bochner–Riesz conjecture | 1 | — | ⬜ unchecked |  |
-| 079 | Real and complex analysis | Sogge's local smoothing conjecture in dimension three | 1 | — | ⬜ unchecked |  |
+| 079 | Real and complex analysis | Local smoothing for the Euclidean wave equation | 2 | 1/2 | ⬜ unchecked |  |
 | 080 | Real and complex analysis | The Sobolev endpoint in Carleson's Schrödinger convergence problem | 2 | — | ⬜ unchecked |  |
 | 081 | Real and complex analysis | The David–Semmes Riesz-transform problem in higher codimension | 1 | 1/1 | ⬜ unchecked |  |
 | 082 | Real and complex analysis | Maximal and variational bounds for the triangular Hilbert transform | 3 | 1/3 | ⬜ unchecked |  |
@@ -146,6 +146,7 @@ Status legend / 状态说明:
 | 140 | Theoretical computer science | Memory–sample lower bounds for noiseless Gaussian regression | 6 | 5/6 | ⬜ unchecked |  |
 | 141 | Theoretical computer science | The existential theory of the reals and existential–universal sentences in the counting hierarchy | 1 | — | ⬜ unchecked |  |
 | 142 | Theoretical computer science | Deterministic polynomial factorization over prime fields | 1 | — | ⬜ unchecked |  |
+| 378 | Theoretical computer science | Disproof of the Exponential Time Hypothesis | 1 | 1/1 | ⬜ unchecked |  |
 | 143 | Dynamical systems and ergodic theory | Uniform limit-cycle bounds in Hilbert's sixteenth problem | 2 | 1/2 | ⬜ unchecked |  |
 | 144 | Dynamical systems and ergodic theory | Banach's simple Lebesgue-spectrum problem | 1 | — | ⬜ unchecked |  |
 | 145 | Dynamical systems and ergodic theory | Rokhlin's multiple-mixing problem | 1 | — | ⬜ unchecked |  |
